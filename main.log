@@ -1,9 +1,9 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2008.5.20)  1 AUG 2008 14:37
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.11.13)  29 APR 2010 17:57
 entering extended mode
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2003/12/01>
+LaTeX2e <2005/12/01>
 Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
 yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
 erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
@@ -103,24 +103,22 @@ Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 (/usr/share/texmf/tex/latex/config/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: dvips.def on input line 130.
+Package color Info: Driver file: pdftex.def on input line 130.
 
-(/usr/share/texmf/tex/latex/graphics/dvips.def
-File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
-)
-(/usr/share/texmf/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count100
 ))
 (/usr/share/texmf/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
 
-(/usr/share/texmf/tex/latex/graphics/keyval.sty
+(/home/ketan/texmf/tex/latex/thesispackage/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks19
 )
 \@linkdim=\dimen112
-\Hy@linkcounter=\count100
-\Hy@pagecounter=\count101
+\Hy@linkcounter=\count101
+\Hy@pagecounter=\count102
 
 (/usr/share/texmf/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
@@ -140,12 +138,12 @@ Package hyperref Info: Backreferencing OFF on input line 2308.
 
 Implicit mode ON; LaTeX internals redefined
 Package hyperref Info: Bookmarks ON on input line 2444.
-(/usr/share/texmf/tex/latex/ltxmisc/url.sty
+(/home/ketan/texmf/tex/latex/thesispackage/url.sty
 \Urlmuskip=\muskip11
-Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+Package: url 1999/03/28  ver 1.5x  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 2599.
-\Fld@menulength=\count102
+\Fld@menulength=\count103
 \Field@Width=\dimen113
 \Fld@charsize=\dimen114
 \Choice@toks=\toks20
@@ -155,22 +153,15 @@ Package hyperref Info: Link nesting OFF on input line 3107.
 Package hyperref Info: Hyper index ON on input line 3110.
 Package hyperref Info: backreferencing OFF on input line 3117.
 Package hyperref Info: Link coloring OFF on input line 3122.
-\Hy@abspage=\count103
-\c@Item=\count104
-\c@Hfootnote=\count105
+\Hy@abspage=\count104
+\c@Item=\count105
+\c@Hfootnote=\count106
 )
-*hyperref using default driver hdvips*
-(/usr/share/texmf/tex/latex/hyperref/hdvips.def
-File: hdvips.def 2007/02/07 v6.75r Hyperref driver for dvips
-
-(/usr/share/texmf/tex/latex/hyperref/pdfmark.def
-File: pdfmark.def 2007/02/07 v6.75r Hyperref definitions for pdfmark specials
-\pdf@docset=\toks22
-\pdf@box=\box28
-\pdf@toks=\toks23
-\pdf@defaulttoks=\toks24
-\Fld@listcount=\count106
-))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
+\Fld@listcount=\count107
+)
 (/usr/share/texmf/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -183,7 +174,7 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 (/usr/share/texmf/tex/latex/config/graphics.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: dvips.def on input line 90.
+Package graphics Info: Driver file: pdftex.def on input line 90.
 )
 \Gin@req@height=\dimen115
 \Gin@req@width=\dimen116
@@ -218,7 +209,7 @@ Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
 (/usr/share/texmf/tex/latex/oberdiek/refcount.sty
 Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
 )
-\c@section@level=\count107
+\c@section@level=\count108
 )
 LaTeX Info: Redefining \ref on input line 25.
 LaTeX Info: Redefining \pageref on input line 25.
@@ -238,7 +229,7 @@ File: umsb.fd 2002/01/19 v2.2g AMS font definitions
 ) [1
 
 
-] [2
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ] (./main.toc)
 \tf@toc=\write5
@@ -247,8 +238,7 @@ File: umsb.fd 2002/01/19 v2.2g AMS font definitions
  [3]
 \openout2 = `chap01.aux'.
 
-
-(./chap01.tex [4
+ (./chap01.tex [4
 
 
 ]
@@ -301,15 +291,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Chapter 5.
-) [15] (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux) (./chap04.aux)
-(./chap05.aux)) ) 
+[15] [16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 136--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
+
+ []
+
+[18]) [19] (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux)
+(./chap04.aux) (./chap05.aux)) ) 
 Here is how much of TeX's memory you used:
- 3611 strings out of 94085
- 47542 string characters out of 1167185
- 106995 words of memory out of 1500000
- 6816 multiletter control sequences out of 10000+50000
+ 3490 strings out of 256216
+ 45293 string characters out of 1917071
+ 108585 words of memory out of 1500000
+ 6660 multiletter control sequences out of 10000+200000
  13284 words of font info for 51 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 27i,8n,38p,1337b,381s stack positions out of 5000i,500n,6000p,200000b,10000s
+ 27i,9n,38p,1337b,371s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmbx10
+.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/font
+s/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb
+></usr/share/texmf/fonts/type1/bluesky/cm/cmr17.pfb></usr/share/texmf/fonts/typ
+e1/bluesky/cm/cmr6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/
+share/texmf/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/blues
+ky/cm/cmsl10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/shar
+e/texmf/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/bluesky/
+cm/cmti10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmtt10.pfb>
+Output written on main.pdf (19 pages, 142635 bytes).
+PDF statistics:
+ 257 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 131072)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on main.dvi (15 pages, 54244 bytes).

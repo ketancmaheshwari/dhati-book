@@ -4,13 +4,13 @@
 \contentsline {chapter}{\numberline {4}Brief Geography and History of Thar}{11}{chapter.4}
 \contentsline {chapter}{\numberline {5}Infrastructural Necessities of the Community}{15}{chapter.5}
 \contentsline {section}{\numberline {5.1}Dhatki (Thari) Language}{15}{section.5.1}
-\contentsline {section}{\numberline {5.2}Water}{15}{section.5.2}
-\contentsline {section}{\numberline {5.3}Food}{15}{section.5.3}
-\contentsline {section}{\numberline {5.4}Clothing}{15}{section.5.4}
-\contentsline {section}{\numberline {5.5}Jewelry-Makeup}{15}{section.5.5}
-\contentsline {section}{\numberline {5.6}Residence}{15}{section.5.6}
-\contentsline {section}{\numberline {5.7}Education}{15}{section.5.7}
-\contentsline {section}{\numberline {5.8}Utensils}{15}{section.5.8}
-\contentsline {section}{\numberline {5.9}Bedding}{15}{section.5.9}
-\contentsline {section}{\numberline {5.10}Business and Employment}{15}{section.5.10}
-\contentsline {section}{\numberline {5.11}Festivals}{15}{section.5.11}
+\contentsline {section}{\numberline {5.2}Water}{19}{section.5.2}
+\contentsline {section}{\numberline {5.3}Food}{19}{section.5.3}
+\contentsline {section}{\numberline {5.4}Clothing}{19}{section.5.4}
+\contentsline {section}{\numberline {5.5}Jewelry-Makeup}{19}{section.5.5}
+\contentsline {section}{\numberline {5.6}Residence}{19}{section.5.6}
+\contentsline {section}{\numberline {5.7}Education}{19}{section.5.7}
+\contentsline {section}{\numberline {5.8}Utensils}{19}{section.5.8}
+\contentsline {section}{\numberline {5.9}Bedding}{19}{section.5.9}
+\contentsline {section}{\numberline {5.10}Business and Employment}{19}{section.5.10}
+\contentsline {section}{\numberline {5.11}Festivals}{19}{section.5.11}
