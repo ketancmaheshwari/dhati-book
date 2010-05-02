@@ -5,12 +5,12 @@
 \contentsline {chapter}{\numberline {5}Infrastructural Necessities of the Community}{15}{chapter.5}
 \contentsline {section}{\numberline {5.1}Dhatki (Thari) Language}{15}{section.5.1}
 \contentsline {section}{\numberline {5.2}Water}{19}{section.5.2}
-\contentsline {section}{\numberline {5.3}Food}{20}{section.5.3}
-\contentsline {section}{\numberline {5.4}Clothing}{20}{section.5.4}
-\contentsline {section}{\numberline {5.5}Jewelry-Makeup}{20}{section.5.5}
-\contentsline {section}{\numberline {5.6}Residence}{20}{section.5.6}
-\contentsline {section}{\numberline {5.7}Education}{20}{section.5.7}
-\contentsline {section}{\numberline {5.8}Utensils}{20}{section.5.8}
-\contentsline {section}{\numberline {5.9}Bedding}{20}{section.5.9}
-\contentsline {section}{\numberline {5.10}Business and Employment}{20}{section.5.10}
-\contentsline {section}{\numberline {5.11}Festivals}{20}{section.5.11}
+\contentsline {section}{\numberline {5.3}Food}{21}{section.5.3}
+\contentsline {section}{\numberline {5.4}Clothing}{21}{section.5.4}
+\contentsline {section}{\numberline {5.5}Jewelry-Makeup}{21}{section.5.5}
+\contentsline {section}{\numberline {5.6}Residence}{21}{section.5.6}
+\contentsline {section}{\numberline {5.7}Education}{21}{section.5.7}
+\contentsline {section}{\numberline {5.8}Utensils}{21}{section.5.8}
+\contentsline {section}{\numberline {5.9}Bedding}{21}{section.5.9}
+\contentsline {section}{\numberline {5.10}Business and Employment}{21}{section.5.10}
+\contentsline {section}{\numberline {5.11}Festivals}{22}{section.5.11}
