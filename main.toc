@@ -6,11 +6,13 @@
 \contentsline {section}{\numberline {5.1}Dhatki (Thari) Language}{15}{section.5.1}
 \contentsline {section}{\numberline {5.2}Water}{19}{section.5.2}
 \contentsline {section}{\numberline {5.3}Food}{21}{section.5.3}
-\contentsline {section}{\numberline {5.4}Clothing}{21}{section.5.4}
-\contentsline {section}{\numberline {5.5}Jewelry-Makeup}{21}{section.5.5}
-\contentsline {section}{\numberline {5.6}Residence}{21}{section.5.6}
-\contentsline {section}{\numberline {5.7}Education}{21}{section.5.7}
-\contentsline {section}{\numberline {5.8}Utensils}{21}{section.5.8}
-\contentsline {section}{\numberline {5.9}Bedding}{21}{section.5.9}
-\contentsline {section}{\numberline {5.10}Business and Employment}{21}{section.5.10}
-\contentsline {section}{\numberline {5.11}Festivals}{22}{section.5.11}
+\contentsline {section}{\numberline {5.4}Clothing}{22}{section.5.4}
+\contentsline {paragraph}{Small Children:}{22}{section*.2}
+\contentsline {paragraph}{Young Boys:}{22}{section*.3}
+\contentsline {section}{\numberline {5.5}Jewelry-Makeup}{23}{section.5.5}
+\contentsline {section}{\numberline {5.6}Residence}{23}{section.5.6}
+\contentsline {section}{\numberline {5.7}Education}{23}{section.5.7}
+\contentsline {section}{\numberline {5.8}Utensils}{23}{section.5.8}
+\contentsline {section}{\numberline {5.9}Bedding}{23}{section.5.9}
+\contentsline {section}{\numberline {5.10}Business and Employment}{23}{section.5.10}
+\contentsline {section}{\numberline {5.11}Festivals}{24}{section.5.11}
