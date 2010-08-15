@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.11.13)  5 MAY 2010 15:52
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2009.11.13)  15 AUG 2010 17:17
 entering extended mode
  %&-line parsing enabled.
 **main.tex
@@ -13,8 +13,8 @@ tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish,
 turkish, ukenglish, ukrainian, loaded.
 (/usr/share/texmf/tex/latex/base/book.cls
 Document Class: book 2005/09/16 v1.4f Standard LaTeX document class
-(/usr/share/texmf/tex/latex/base/bk10.clo
-File: bk10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+(/usr/share/texmf/tex/latex/base/bk12.clo
+File: bk12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -179,6 +179,15 @@ Package graphics Info: Driver file: pdftex.def on input line 90.
 \Gin@req@height=\dimen115
 \Gin@req@width=\dimen116
 )
+(/home/ketan/texmf/tex/latex/thesispackage/rotating.sty
+Package: rotating 1997/09/26, v2.13 Rotation package
+
+(/usr/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count108
+\rot@float@box=\box28
+)
 \@indexfile=\write3
 \openout3 = `main.idx'.
 
@@ -188,41 +197,41 @@ Writing index file main.idx
 (./chap05.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-Package hyperref Info: Link coloring OFF on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+Package hyperref Info: Link coloring OFF on input line 26.
  (/usr/share/texmf/tex/latex/hyperref/nameref.sty
 Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
 
 (/usr/share/texmf/tex/latex/oberdiek/refcount.sty
 Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
 )
-\c@section@level=\count108
+\c@section@level=\count109
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+LaTeX Font Info:    Try loading font information for U+msa on input line 28.
 
 (/usr/share/texmf/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2002/01/19 v2.2g AMS font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+LaTeX Font Info:    Try loading font information for U+msb on input line 28.
 
 (/usr/share/texmf/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2002/01/19 v2.2g AMS font definitions
@@ -246,52 +255,100 @@ Chapter 1.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5])
-[6]
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6])
+[7]
 \openout2 = `chap02.aux'.
 
- (./chap02.tex
+ (./chap02.tex [8
+
+
+
+]
 Chapter 2.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7
+ [9])
+Overfull \hbox (28.18741pt too wide) has occurred while \output is active
+[]\OT1/cmr/m/n/12 10 \OT1/cmr/m/sl/12 CHAPTER 2.  AMAZING LIFE-JOURNEY OF THE M
+AHESHWARI COMMUNITY
+ []
 
-
-
-])
-[8]
+[10]
 \openout2 = `chap03.aux'.
 
  (./chap03.tex
 Chapter 3.
-[9
+
+Overfull \hbox (2.03616pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/n/12 As men-tioned in ear-lier chap-ter, the Ma-hesh-wari com-mu-nit
+y mi-grated from Jaisalmer
+ []
+
+
+Overfull \hbox (0.56119pt too wide) in paragraph at lines 8--9
+[]\OT1/cmr/m/n/12 King Jaysingh mar-ried Jadawkun-war, daugh-ter of Umarkot's S
+odha Na-harsang
+ []
+
+[11
 
 
 
-]) [10]
+]
+Overfull \hbox (5.46114pt too wide) in paragraph at lines 19--20
+[]\OT1/cmr/m/n/12 Along with Ma-hesh-waris, other com-mu-nity peo-ple like Push
+karna Brah-min, Saraswat,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12])
+[13]
 \openout2 = `chap04.aux'.
 
- (./chap04.tex
+ (./chap04.tex [14
+
+
+
+]
 Chapter 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11
+ [15]
+[16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-]
-[12]) [13]
+ [17])
+[18]
 \openout2 = `chap05.aux'.
 
- (./chap05.tex [14
+ (./chap05.tex
+Chapter 5.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19
 
 
 
 ]
-Chapter 5.
-[15] [16] [17]
+[20] [21]
+Overfull \hbox (20.76pt too wide) in paragraph at lines 113--130
+ [] 
+ []
+
+
+Overfull \hbox (40.6088pt too wide) in paragraph at lines 140--153
+ [] 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 136--158
 
  []
@@ -301,39 +358,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--162
 
  []
 
-[18] [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20]
-[21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
-Underfull \vbox (badness 2689) has occurred while \output is active []
+[23]
+Underfull \vbox (badness 1472) has occurred while \output is active []
 
- [23])
-[24] (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux) (./chap04.aux)
-(./chap05.aux)) ) 
+ [24]
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [25]
+[26] [27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+[29] [30]
+Underfull \vbox (badness 5802) has occurred while \output is active []
+
+ [31]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 296.
+
+
+(/usr/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 296.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+[33]) [34] (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux)
+(./chap04.aux) (./chap05.aux)) ) 
 Here is how much of TeX's memory you used:
- 3499 strings out of 256216
- 45367 string characters out of 1917071
- 109729 words of memory out of 1500000
- 6661 multiletter control sequences out of 10000+200000
- 13284 words of font info for 51 fonts, out of 1200000 for 2000
+ 3631 strings out of 256216
+ 47004 string characters out of 1917071
+ 112409 words of memory out of 1500000
+ 6768 multiletter control sequences out of 10000+200000
+ 14531 words of font info for 56 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 27i,9n,38p,1337b,371s stack positions out of 5000i,500n,6000p,200000b,15000s
-</usr/share/texmf/fonts/type1/bluesky/cm/cmbx10.pfb></usr/shar
-e/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/bluesky
-/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/te
-xmf/fonts/type1/bluesky/cm/cmr17.pfb></usr/share/texmf/fonts/type1/bluesky/cm/c
-mr6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf/fon
-ts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsl10.pf
-b></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/t
-ype1/bluesky/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti10.pfb><
-/usr/share/texmf/fonts/type1/bluesky/cm/cmtt10.pfb>
-Output written on main.pdf (24 pages, 162064 bytes).
+ 27i,9n,38p,1440b,365s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmbx12
+.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts
+/type1/bluesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr17.pfb>
+</usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf/fonts/type1
+/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsl12.pfb></usr/
+share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/blu
+esky/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti12.pfb></usr/sha
+re/texmf/fonts/type1/bluesky/cm/cmtt12.pfb>
+Output written on main.pdf (34 pages, 161833 bytes).
 PDF statistics:
- 282 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 131072)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 331 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 131072)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 

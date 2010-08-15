@@ -1,18 +1,25 @@
 \contentsline {chapter}{\numberline {1}The Origin of the Maheshwari Community}{5}{chapter.1}
-\contentsline {chapter}{\numberline {2}Amazing Life-Journey of the Maheshwari Community}{7}{chapter.2}
-\contentsline {chapter}{\numberline {3}Migration from Marwar to Thar}{9}{chapter.3}
-\contentsline {chapter}{\numberline {4}Brief Geography and History of Thar}{11}{chapter.4}
-\contentsline {chapter}{\numberline {5}Infrastructural Necessities of the Community}{15}{chapter.5}
-\contentsline {section}{\numberline {5.1}Dhatki (Thari) Language}{15}{section.5.1}
-\contentsline {section}{\numberline {5.2}Water}{19}{section.5.2}
-\contentsline {section}{\numberline {5.3}Food}{21}{section.5.3}
-\contentsline {section}{\numberline {5.4}Clothing}{22}{section.5.4}
-\contentsline {paragraph}{Small Children:}{22}{section*.2}
-\contentsline {paragraph}{Young Boys:}{22}{section*.3}
-\contentsline {section}{\numberline {5.5}Jewelry-Makeup}{23}{section.5.5}
-\contentsline {section}{\numberline {5.6}Residence}{23}{section.5.6}
-\contentsline {section}{\numberline {5.7}Education}{23}{section.5.7}
-\contentsline {section}{\numberline {5.8}Utensils}{23}{section.5.8}
-\contentsline {section}{\numberline {5.9}Bedding}{23}{section.5.9}
-\contentsline {section}{\numberline {5.10}Business and Employment}{23}{section.5.10}
-\contentsline {section}{\numberline {5.11}Festivals}{24}{section.5.11}
+\contentsline {chapter}{\numberline {2}Amazing Life-Journey of the Maheshwari Community}{9}{chapter.2}
+\contentsline {chapter}{\numberline {3}Migration from Marwar to Thar}{11}{chapter.3}
+\contentsline {chapter}{\numberline {4}Brief Geography and History of Thar}{15}{chapter.4}
+\contentsline {chapter}{\numberline {5}Infrastructural Necessities of the Community}{19}{chapter.5}
+\contentsline {section}{\numberline {5.1}Dhatki (Thari) Language}{19}{section.5.1}
+\contentsline {section}{\numberline {5.2}Water}{24}{section.5.2}
+\contentsline {section}{\numberline {5.3}Food}{27}{section.5.3}
+\contentsline {section}{\numberline {5.4}Clothing}{29}{section.5.4}
+\contentsline {paragraph}{Small Children:}{29}{section*.2}
+\contentsline {paragraph}{Young Boys:}{29}{section*.3}
+\contentsline {paragraph}{Unmarried Girls:}{29}{section*.4}
+\contentsline {paragraph}{Men:}{29}{section*.5}
+\contentsline {paragraph}{Married Women:}{29}{section*.6}
+\contentsline {paragraph}{Widows:}{30}{section*.7}
+\contentsline {section}{\numberline {5.5}Jewelry-Makeup}{31}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Golden Jewelry}{32}{subsection.5.5.1}
+\contentsline {paragraph}{Men:}{32}{section*.8}
+\contentsline {paragraph}{Women:}{32}{section*.9}
+\contentsline {section}{\numberline {5.6}Residence}{33}{section.5.6}
+\contentsline {section}{\numberline {5.7}Education}{33}{section.5.7}
+\contentsline {section}{\numberline {5.8}Utensils}{33}{section.5.8}
+\contentsline {section}{\numberline {5.9}Bedding}{33}{section.5.9}
+\contentsline {section}{\numberline {5.10}Business and Employment}{33}{section.5.10}
+\contentsline {section}{\numberline {5.11}Festivals}{34}{section.5.11}
