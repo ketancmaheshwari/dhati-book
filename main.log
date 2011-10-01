@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  22 AUG 2011 22:30
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  1 OCT 2011 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -468,22 +468,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 [20] [21]
-Overfull \hbox (20.76pt too wide) in paragraph at lines 113--130
+Overfull \hbox (20.76pt too wide) in paragraph at lines 178--195
  [] 
  []
 
 
-Overfull \hbox (40.6088pt too wide) in paragraph at lines 140--153
+Overfull \hbox (40.6088pt too wide) in paragraph at lines 209--222
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--158
+Underfull \hbox (badness 10000) in paragraph at lines 204--228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--162
+Underfull \hbox (badness 10000) in paragraph at lines 229--232
 
  []
 
@@ -506,23 +506,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 5802) has occurred while \output is active []
 
  [31]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 296.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 616.
 
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 296.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32]
-[33]) [34]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 616.
+ [32] [33])
+[34]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
- (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux)
-(./chap04.aux) (./chap05.aux))
+ (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux) (./chap04.aux)
+(./chap05.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F364A7DFC121BB3A601B945DCF6B0F00;1073.
@@ -534,7 +531,7 @@ Here is how much of TeX's memory you used:
  8943 multiletter control sequences out of 15000+200000
  14522 words of font info for 56 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 31i,9n,30p,1440b,366s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,9n,30p,1337b,366s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
@@ -546,7 +543,7 @@ texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
 live/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texl
 ive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (34 pages, 193744 bytes).
+Output written on main.pdf (34 pages, 194699 bytes).
 PDF statistics:
  331 PDF objects out of 1000 (max. 8388607)
  281 compressed objects within 3 object streams
