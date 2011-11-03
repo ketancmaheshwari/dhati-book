@@ -20,6 +20,7 @@
 \contentsline {section}{\numberline {5.6}Residence}{32}{section.5.6}
 \contentsline {section}{\numberline {5.7}Education}{33}{section.5.7}
 \contentsline {section}{\numberline {5.8}Utensils}{33}{section.5.8}
-\contentsline {section}{\numberline {5.9}Bedding}{33}{section.5.9}
-\contentsline {section}{\numberline {5.10}Business and Employment}{33}{section.5.10}
-\contentsline {section}{\numberline {5.11}Festivals}{34}{section.5.11}
+\contentsline {subsection}{\numberline {5.8.1}Regular Usage}{33}{subsection.5.8.1}
+\contentsline {section}{\numberline {5.9}Bedding}{34}{section.5.9}
+\contentsline {section}{\numberline {5.10}Business and Employment}{34}{section.5.10}
+\contentsline {section}{\numberline {5.11}Festivals}{35}{section.5.11}
