@@ -32,3 +32,8 @@
 \contentsline {section}{\numberline {5.11}Festivals}{46}{section.5.11}
 \contentsline {paragraph}{Marwari Year}{47}{section*.10}
 \contentsline {paragraph}{Ishwar Gavar/Gangor.}{47}{section*.11}
+\contentsline {paragraph}{New Year.}{48}{section*.12}
+\contentsline {paragraph}{Ramnavami.}{49}{section*.13}
+\contentsline {paragraph}{Hanuman Jayanti.}{49}{section*.14}
+\contentsline {paragraph}{Panthewari.}{49}{section*.15}
+\contentsline {paragraph}{Akhatrij.}{49}{section*.16}
