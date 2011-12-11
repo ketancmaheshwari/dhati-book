@@ -38,3 +38,11 @@
 \contentsline {paragraph}{Panthewari.}{49}{section*.15}
 \contentsline {paragraph}{Akhatrij.}{49}{section*.16}
 \contentsline {paragraph}{Vaishakhi.}{49}{section*.17}
+\contentsline {paragraph}{Nrijala Ekadashi.}{50}{section*.18}
+\contentsline {paragraph}{Nani (small) Trij.}{50}{section*.19}
+\contentsline {paragraph}{Veer Pasli.}{50}{section*.20}
+\contentsline {paragraph}{Pavitra Agiyaras.}{50}{section*.21}
+\contentsline {paragraph}{Ak Chathth.}{50}{section*.22}
+\contentsline {paragraph}{Bin Baras.}{50}{section*.23}
+\contentsline {paragraph}{Rakshabandhan.}{50}{section*.24}
+\contentsline {paragraph}{Kajali Trij.}{51}{section*.25}
