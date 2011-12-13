@@ -67,3 +67,4 @@
 \contentsline {paragraph}{Maha Shivratri.}{55}{section*.44}
 \contentsline {paragraph}{Amali Agiyaras.}{55}{section*.45}
 \contentsline {paragraph}{Holi.}{55}{section*.46}
+\contentsline {paragraph}{Dhuleti.}{56}{section*.47}
