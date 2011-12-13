@@ -46,3 +46,9 @@
 \contentsline {paragraph}{Bin Baras.}{50}{section*.23}
 \contentsline {paragraph}{Rakshabandhan.}{50}{section*.24}
 \contentsline {paragraph}{Kajali Trij.}{51}{section*.25}
+\contentsline {paragraph}{Ubh Chathth.}{51}{section*.26}
+\contentsline {paragraph}{Randhan Chathth.}{51}{section*.27}
+\contentsline {paragraph}{Shitla Satam.}{51}{section*.28}
+\contentsline {paragraph}{Janmashtami.}{52}{section*.29}
+\contentsline {paragraph}{Vachch Baras.}{52}{section*.30}
+\contentsline {paragraph}{Gauna Oaas (fast).}{52}{section*.31}
