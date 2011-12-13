@@ -52,3 +52,6 @@
 \contentsline {paragraph}{Janmashtami.}{52}{section*.29}
 \contentsline {paragraph}{Vachch Baras.}{52}{section*.30}
 \contentsline {paragraph}{Gauna Oaas (fast).}{52}{section*.31}
+\contentsline {paragraph}{Ganesh Chaturthi / Gunes Choth.}{52}{section*.32}
+\contentsline {paragraph}{Shradhh.}{53}{section*.33}
+\contentsline {paragraph}{Navratri.}{53}{section*.34}
