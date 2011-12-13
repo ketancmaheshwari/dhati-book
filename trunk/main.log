@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  13 DEC 2011 11:08
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  13 DEC 2011 11:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -533,9 +533,9 @@ t Houses, Post-offices, Courts
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
-Overfull \hbox (3.67319pt too wide) in paragraph at lines 815--822
-[]\OT1/cmr/m/n/12 Primary ed-u-ca-tion was upto fourth grade. In 1911, in Mithi
-, A.V. (Anglo-Vernacular)
+Overfull \hbox (6.28427pt too wide) in paragraph at lines 815--822
+[]\OT1/cmr/m/n/12 Primary ed-u-ca-tion was up to fourth grade. In 1911, in Mith
+i, A.V. (Anglo-Vernacular)
  []
 
 
@@ -603,7 +603,7 @@ live/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
 e/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
 /2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (56 pages, 269842 bytes).
+Output written on main.pdf (56 pages, 270047 bytes).
 PDF statistics:
  534 PDF objects out of 1000 (max. 8388607)
  459 compressed objects within 5 object streams
