@@ -68,3 +68,5 @@
 \contentsline {paragraph}{Amali Agiyaras.}{55}{section*.45}
 \contentsline {paragraph}{Holi.}{55}{section*.46}
 \contentsline {paragraph}{Dhuleti.}{56}{section*.47}
+\contentsline {chapter}{\numberline {6}Rituals and Social Traditions}{57}{chapter.6}
+\contentsline {paragraph}{Rituals.}{57}{section*.48}

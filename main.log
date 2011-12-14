@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  13 DEC 2011 11:35
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  13 DEC 2011 18:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -286,7 +286,7 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 
 Writing index file main.idx
 (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux) (./chap04.aux)
-(./chap05.aux))
+(./chap05.aux) (./chap06.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -569,19 +569,28 @@ s 14th is cel-e-brated as Makar Sankranti.
  []
 
 [55]) [56]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
- (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux)
-(./chap04.aux) (./chap05.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
+\openout2 = `chap06.aux'.
+
+ (./chap06.tex
+Chapter 6.
+) [57
+
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
+ (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux) (./chap04.aux)
+(./chap05.aux) (./chap06.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 159B46FFD97C976081C37D40420156E0;1615.
+(rerunfilecheck)             Checksum: D12D663A330F93C83ED57B0F2C7A8F19;1680.
  ) 
 Here is how much of TeX's memory you used:
- 5958 strings out of 493747
- 85534 string characters out of 3143546
- 173386 words of memory out of 3000000
- 8951 multiletter control sequences out of 15000+200000
+ 5970 strings out of 493747
+ 85653 string characters out of 3143546
+ 173746 words of memory out of 3000000
+ 8953 multiletter control sequences out of 15000+200000
  14522 words of font info for 56 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  31i,16n,30p,1337b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -603,10 +612,10 @@ live/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
 e/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
 /2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (56 pages, 270047 bytes).
+Output written on main.pdf (57 pages, 270694 bytes).
 PDF statistics:
- 534 PDF objects out of 1000 (max. 8388607)
- 459 compressed objects within 5 object streams
- 151 named destinations out of 1000 (max. 500000)
- 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 544 PDF objects out of 1000 (max. 8388607)
+ 468 compressed objects within 5 object streams
+ 154 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
