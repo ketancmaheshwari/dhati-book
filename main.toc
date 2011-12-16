@@ -70,9 +70,9 @@
 \contentsline {paragraph}{Dhuleti.}{56}{section*.47}
 \contentsline {chapter}{\numberline {6}Rituals and Social Traditions}{57}{chapter.6}
 \contentsline {paragraph}{Rituals.}{57}{section*.48}
-\contentsline {section}{\numberline {6.1}Birth}{58}{section.6.1}
-\contentsline {section}{\numberline {6.2}Janoi (Sacred Thread)}{58}{section.6.2}
-\contentsline {section}{\numberline {6.3}Engagement}{58}{section.6.3}
-\contentsline {section}{\numberline {6.4}Marriage}{58}{section.6.4}
-\contentsline {section}{\numberline {6.5}Death}{58}{section.6.5}
-\contentsline {subsection}{\numberline {6.5.1}Dirges}{58}{subsection.6.5.1}
+\contentsline {section}{\numberline {6.1}Birth}{59}{section.6.1}
+\contentsline {section}{\numberline {6.2}Janoi (Sacred Thread)}{59}{section.6.2}
+\contentsline {section}{\numberline {6.3}Engagement}{59}{section.6.3}
+\contentsline {section}{\numberline {6.4}Marriage}{59}{section.6.4}
+\contentsline {section}{\numberline {6.5}Death}{59}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Dirges}{59}{subsection.6.5.1}
