@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.4.26)  28 JAN 2013 16:31
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.4.26)  28 JAN 2013 16:53
 entering extended mode
  %&-line parsing enabled.
 **main.tex
@@ -547,11 +547,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [61])
-[62] (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux) (./chap04.aux)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+[63] (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux) (./chap04.aux)
 (./chap05.aux) (./chap06.aux)) ) 
 Here is how much of TeX's memory you used:
- 5456 strings out of 493848
- 75027 string characters out of 1152823
+ 5457 strings out of 493848
+ 75034 string characters out of 1152823
  158864 words of memory out of 3000000
  8439 multiletter control sequences out of 15000+50000
  14522 words of font info for 56 fonts, out of 3000000 for 9000
@@ -574,9 +577,9 @@ f-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/f
 onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/p
 ublic/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
 nts/cm/cmtt12.pfb>
-Output written on main.pdf (62 pages, 339426 bytes).
+Output written on main.pdf (63 pages, 340540 bytes).
 PDF statistics:
- 592 PDF objects out of 1000 (max. 8388607)
- 166 named destinations out of 1000 (max. 500000)
+ 596 PDF objects out of 1000 (max. 8388607)
+ 167 named destinations out of 1000 (max. 500000)
  249 words of extra memory for PDF output out of 10000 (max. 10000000)
 
