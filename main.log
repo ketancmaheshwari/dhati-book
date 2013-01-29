@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.4.26)  28 JAN 2013 16:53
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.4.26)  29 JAN 2013 11:16
 entering extended mode
  %&-line parsing enabled.
 **main.tex
@@ -546,12 +546,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [60]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [62]
-[63] (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux) (./chap04.aux)
-(./chap05.aux) (./chap06.aux)) ) 
+ [61]
+[62]) [63] (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux)
+(./chap04.aux) (./chap05.aux) (./chap06.aux)) ) 
 Here is how much of TeX's memory you used:
  5457 strings out of 493848
  75034 string characters out of 1152823
@@ -560,8 +557,8 @@ Here is how much of TeX's memory you used:
  14522 words of font info for 56 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  38i,16n,38p,1337b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Hfootnote.4} has be
-en referenced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{Hfoo
+tnote.4} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
 , replaced by a fixed one
@@ -577,7 +574,7 @@ f-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/f
 onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/p
 ublic/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
 nts/cm/cmtt12.pfb>
-Output written on main.pdf (63 pages, 340540 bytes).
+Output written on main.pdf (63 pages, 341085 bytes).
 PDF statistics:
  596 PDF objects out of 1000 (max. 8388607)
  167 named destinations out of 1000 (max. 500000)
