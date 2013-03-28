@@ -74,5 +74,9 @@
 \contentsline {section}{\numberline {6.2}Janoi (Sacred Thread)}{62}{section.6.2}
 \contentsline {section}{\numberline {6.3}Engagement}{62}{section.6.3}
 \contentsline {section}{\numberline {6.4}Marriage}{70}{section.6.4}
-\contentsline {section}{\numberline {6.5}Death}{70}{section.6.5}
-\contentsline {subsection}{\numberline {6.5.1}Dirges}{70}{subsection.6.5.1}
+\contentsline {paragraph}{Deciding the date}{70}{section*.49}
+\contentsline {paragraph}{Writing Marriage}{70}{section*.50}
+\contentsline {paragraph}{Marriage ``sojhna"}{70}{section*.51}
+\contentsline {paragraph}{Sending of Marriage}{71}{section*.52}
+\contentsline {section}{\numberline {6.5}Death}{71}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Dirges}{71}{subsection.6.5.1}
