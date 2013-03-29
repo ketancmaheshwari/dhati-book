@@ -78,5 +78,9 @@
 \contentsline {paragraph}{Writing Marriage}{70}{section*.50}
 \contentsline {paragraph}{Marriage ``sojhna"}{70}{section*.51}
 \contentsline {paragraph}{Sending of Marriage}{71}{section*.52}
-\contentsline {section}{\numberline {6.5}Death}{71}{section.6.5}
-\contentsline {subsection}{\numberline {6.5.1}Dirges}{71}{subsection.6.5.1}
+\contentsline {paragraph}{Invitation Card}{71}{section*.53}
+\contentsline {paragraph}{Raw oil}{71}{section*.54}
+\contentsline {paragraph}{Nanani-Dadani}{72}{section*.55}
+\contentsline {paragraph}{Laapsi}{72}{section*.56}
+\contentsline {section}{\numberline {6.5}Death}{72}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Dirges}{72}{subsection.6.5.1}
