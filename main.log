@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  31 MAR 2013 09:27
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  31 MAR 2013 21:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -585,7 +585,7 @@ Overfull \hbox (90.59818pt too wide) in paragraph at lines 284--294
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [63]
-<figures/engagement/straight-sirhai.png, id=515, 155.6214pt x 72.27pt>
+<figures/engagement/straight-sirhai.png, id=525, 155.6214pt x 72.27pt>
 File: figures/engagement/straight-sirhai.png Graphic file (type png)
 
 <use figures/engagement/straight-sirhai.png>
@@ -593,7 +593,7 @@ Package pdftex.def Info: figures/engagement/straight-sirhai.png used on input l
 ine 340.
 (pdftex.def)             Requested size: 155.621pt x 72.2698pt.
 
-<figures/engagement/straight_opposite_2.png, id=517, 207.174pt x 103.1052pt>
+<figures/engagement/straight_opposite_2.png, id=527, 207.174pt x 103.1052pt>
 File: figures/engagement/straight_opposite_2.png Graphic file (type png)
 
 <use figures/engagement/straight_opposite_2.png>
@@ -601,7 +601,7 @@ Package pdftex.def Info: figures/engagement/straight_opposite_2.png used on inp
 ut line 347.
 (pdftex.def)             Requested size: 207.17348pt x 103.10493pt.
 
-<figures/engagement/triple_3.png, id=518, 207.174pt x 225.9642pt>
+<figures/engagement/triple_3.png, id=528, 207.174pt x 225.9642pt>
 File: figures/engagement/triple_3.png Graphic file (type png)
 
 <use figures/engagement/triple_3.png>
@@ -609,21 +609,21 @@ Package pdftex.def Info: figures/engagement/triple_3.png used on input line 354
 .
 (pdftex.def)             Requested size: 207.17348pt x 225.96364pt.
 
-<figures/engagement/four_4.png, id=519, 218.2554pt x 224.037pt>
+<figures/engagement/four_4.png, id=529, 218.2554pt x 224.037pt>
 File: figures/engagement/four_4.png Graphic file (type png)
 
 <use figures/engagement/four_4.png>
 Package pdftex.def Info: figures/engagement/four_4.png used on input line 361.
 (pdftex.def)             Requested size: 218.25485pt x 224.03644pt.
 
-<figures/engagement/four_5.png, id=520, 269.3262pt x 250.0542pt>
+<figures/engagement/four_5.png, id=530, 269.3262pt x 250.0542pt>
 File: figures/engagement/four_5.png Graphic file (type png)
 
 <use figures/engagement/four_5.png>
 Package pdftex.def Info: figures/engagement/four_5.png used on input line 368.
 (pdftex.def)             Requested size: 269.32555pt x 250.05357pt.
 
-<figures/engagement/triple_6.png, id=521, 208.6194pt x 230.3004pt>
+<figures/engagement/triple_6.png, id=531, 208.6194pt x 230.3004pt>
 File: figures/engagement/triple_6.png Graphic file (type png)
 
 <use figures/engagement/triple_6.png>
@@ -631,14 +631,14 @@ Package pdftex.def Info: figures/engagement/triple_6.png used on input line 375
 .
 (pdftex.def)             Requested size: 208.61888pt x 230.29984pt.
 
-<figures/engagement/womb_7.png, id=522, 248.6088pt x 113.223pt>
+<figures/engagement/womb_7.png, id=532, 248.6088pt x 113.223pt>
 File: figures/engagement/womb_7.png Graphic file (type png)
 
 <use figures/engagement/womb_7.png>
 Package pdftex.def Info: figures/engagement/womb_7.png used on input line 382.
 (pdftex.def)             Requested size: 248.60817pt x 113.22272pt.
 
-<figures/engagement/cash_8.png, id=523, 155.6214pt x 88.1694pt>
+<figures/engagement/cash_8.png, id=533, 155.6214pt x 88.1694pt>
 File: figures/engagement/cash_8.png Graphic file (type png)
 
 <use figures/engagement/cash_8.png>
@@ -658,33 +658,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [69]
-[70] [71] [72])
-Underfull \vbox (badness 2512) has occurred while \output is active []
-
- [73]
-[74]
+[70] [71] [72] [73]) [74]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
- (./main.aux (./chap01.aux) (./chap02.aux) (./chap03.aux) (./chap04.aux)
-(./chap05.aux) (./chap06.aux))
+ (./main.aux (./chap01.aux) (./chap02.aux)
+(./chap03.aux) (./chap04.aux) (./chap05.aux) (./chap06.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 3391FD0FC7342C5BDF0D4E13F9276B18;1914
-(rerunfilecheck)             After:  584874002B9B81438FC2C71730FD168D;2026.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 584874002B9B81438FC2C71730FD168D;2026.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
  ) 
 Here is how much of TeX's memory you used:
- 6340 strings out of 493633
- 90576 string characters out of 3143378
- 184798 words of memory out of 3000000
- 9314 multiletter control sequences out of 15000+200000
+ 6342 strings out of 493633
+ 90607 string characters out of 3143378
+ 184801 words of memory out of 3000000
+ 9316 multiletter control sequences out of 15000+200000
  14522 words of font info for 56 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  29i,16n,30p,1333b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -706,10 +695,10 @@ live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
 e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
 /2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (74 pages, 516762 bytes).
+Output written on main.pdf (74 pages, 518474 bytes).
 PDF statistics:
- 690 PDF objects out of 1000 (max. 8388607)
- 580 compressed objects within 6 object streams
+ 698 PDF objects out of 1000 (max. 8388607)
+ 588 compressed objects within 6 object streams
  202 named destinations out of 1000 (max. 500000)
- 273 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 289 words of extra memory for PDF output out of 10000 (max. 10000000)
 
