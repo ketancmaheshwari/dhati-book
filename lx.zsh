@@ -91,7 +91,7 @@ biblio()
     printf "."
     ${COMPILER} ${DOC} >& /dev/null
     printf "."
-    ${COMPILER} ${DOC} >& ${TMP}
+    #${COMPILER} ${DOC} >& ${TMP}
     printf "."
     check_bib_missing < ${BIB} | scan WARNS
     if (( ${#WARNS} > 0 ))
