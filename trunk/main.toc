@@ -92,4 +92,4 @@
 \contentsline {paragraph}{Nani Kholo}{74}{section*.64}
 \contentsline {paragraph}{Rihan}{74}{section*.65}
 \contentsline {section}{\numberline {6.5}Death}{74}{section.6.5}
-\contentsline {subsection}{\numberline {6.5.1}Dirges}{76}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.1}Dirges}{77}{subsection.6.5.1}
