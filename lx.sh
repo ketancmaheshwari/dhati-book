@@ -19,7 +19,7 @@ FORCE="no"
 
 clean()
 {
-	rm -fv *.aux *.log *.out *.toc *.idx
+	rm -fv *.log *.out 
 }
 
 $COMPILER ${DEFAULTDOC}.tex
