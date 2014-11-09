@@ -38,7 +38,7 @@ done
 clean()
 {
     local t
-    t=( core* *.aux *.bbl *.blg *.dvi *.latex* *.log *.pdf *.ps )
+    t=( *.aux *.dvi *.latex* *.log *.pdf *.ps )
     t=( ${t} *.toc *.lot *.lof .*.out )
     if [[ ${#t} > 0 ]]
         then
