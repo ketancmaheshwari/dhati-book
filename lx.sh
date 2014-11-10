@@ -24,5 +24,5 @@ clean()
 
 $COMPILER ${DEFAULTDOC}.tex
 
-clean
+#clean
 
