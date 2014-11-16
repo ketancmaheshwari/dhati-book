@@ -1,0 +1,4 @@
+-- Add a pronunciation guid and accentuate all the terms whose pronunciation is not straightforward.
+-- Obtain all the photographs as in the original book.
+-- Obtain permission to publish.
+-- Add a chapter about the current state of Maheshwari community.
