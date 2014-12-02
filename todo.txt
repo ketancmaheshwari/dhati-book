@@ -2,3 +2,4 @@
 -- Obtain all the photographs as in the original book.
 -- Obtain permission to publish.
 -- Add a chapter about the current state of Maheshwari community.
+-- Add a pronunciation guide per chapter. May be an audio guide would be best.
